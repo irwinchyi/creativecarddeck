@@ -1,3 +1,3 @@
 # Creator / Producer Card Deck
 
-You can download everything from the download code button up. 
+[Download](https://github.com/irwinchyi/creativecarddeck/archive/main.zip)
